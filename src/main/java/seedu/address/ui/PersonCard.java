@@ -2,8 +2,6 @@ package seedu.address.ui;
 
 import java.util.Comparator;
 
-import javax.swing.text.LabelView;
-
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 import javafx.scene.layout.FlowPane;
