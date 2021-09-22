@@ -1,15 +1,28 @@
+# CSBook
 [![CI Status](https://github.com/se-edu/addressbook-level3/workflows/Java%20CI/badge.svg)](https://github.com/se-edu/addressbook-level3/actions)
 [![codecov](https://codecov.io/gh/AY2122S1-CS2103T-T09-3/tp/branch/master/graph/badge.svg?token=ROK6R0FQXN)](https://codecov.io/gh/AY2122S1-CS2103T-T09-3/tp)
+---
 
-![Ui](docs/images/Ui.png)
+## What is CSBook?
+**CSBook is a desktop application for CS Teaching Assistants to manage their students' details.** 
 
-* This is **a sample project for Software Engineering (SE) students**.<br>
-  Example usages:
-  * as a starting point of a course project (as opposed to writing everything from scratch)
-  * as a case study
-* The project simulates an ongoing software project for a desktop application (called _AddressBook_) used for managing contact details.
-  * It is **written in OOP fashion**. It provides a **reasonably well-written** code base **bigger** (around 6 KLoC) than what students usually write in beginner-level SE modules, without being overwhelmingly big.
-  * It comes with a **reasonable level of user and developer documentation**.
-* It is named `AddressBook Level 3` (`AB3` for short) because it was initially created as a part of a series of `AddressBook` projects (`Level 1`, `Level 2`, `Level 3` ...).
-* For the detailed documentation of this project, see the **[Address Book Product Website](https://se-education.org/addressbook-level3)**.
-* This project is a **part of the se-education.org** initiative. If you would like to contribute code to this project, see [se-education.org](https://se-education.org#https://se-education.org/#contributing) for more info.
+## Features
+
+---
+### 1. Group Your Students
+CSBook provides you an organized way to manage your students by grouping them based on their classes. 
+
+### 2. Manage Student Details 
+CSBook allows you to add contact details of your students and additional information (e.g. grades). 
+
+### 3. Command-Line Interface
+While it has a GUI, most of the user interactions happen using a Command Line Interface (CLI).
+
+## Usage
+
+---
+### Some example usages include:
+- `listgroups`: Listing all Groups
+   Shows a list of all groups in the CSBook. 
+- `viewgroup`: View details of a Group
+   Finds and displays details about a group
