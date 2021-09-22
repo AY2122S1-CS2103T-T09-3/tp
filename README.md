@@ -26,3 +26,5 @@ While it has a GUI, most of the user interactions happen using a Command Line In
    Shows a list of all groups in the CSBook. 
 - `viewgroup`: View details of a Group
    Finds and displays details about a group
+
+* This project is based on the AddressBook-Level3 project created by the [SE-EDU initiative](https://se-education.org).
